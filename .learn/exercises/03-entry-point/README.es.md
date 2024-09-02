@@ -18,7 +18,7 @@ console.log("Hello World")
 Para verificar que el proceso haya sido exitoso, corre el siguiente comando en tu consola/terminal:
 
 ```bash
-$ node app.js
+// Contenido de app.js 
 ```
 
 ## 💡 Pista:
